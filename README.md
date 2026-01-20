@@ -17,5 +17,5 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 <li><ul>Passionate about Health and Fitness 💪🏻</ul></li>
 <li><ul>Favorite color is Blue 💙</ul></li>
 
-<div width="50%" align="center"></div><br /><br /><br /><br /><br /><br /><br />
+<div width="100%" align="center"></div><br /><br /><br /><br /><br /><br /><br />
 
