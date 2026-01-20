@@ -12,9 +12,10 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 <b>A Bit About Me<b> 
 
-<li><ul>I 💙 matcha lattes and boba tea 🧋</ul></li>
+<li><ul>I 💚 matcha lattes and boba tea 🧋</ul></li>
 <li><ul>I like to Crochet 🧶</ul></li>
 <li><ul>Passionate about Health and Fitness 💪🏻</ul></li>
+<li><ul>Favorite color is Blue 💙</ul></li>
 
 <div width="100%" align="center"></div><br /><br /><br /><br /><br /><br /><br />
 
